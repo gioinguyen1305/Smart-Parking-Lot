@@ -2,3 +2,7 @@
 Smart parking lot show GUI PC by python 
 
 Change fn and fn_yaml in Code.py
+
+
+Problem:
+Don't kill all by button. 
